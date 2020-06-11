@@ -1,0 +1,44 @@
+.main-header{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('./image 1.jpeg');
+    text-align: center;
+}
+
+.cost{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    font-style: normal;
+}
+
+.brushes{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
